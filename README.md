@@ -15,4 +15,4 @@ I'm a computer science student at University of Padua.
 
 
 ## Now Playing
-[![Spotify](https://spotify-now-playing-jtlkwba7f.vercel.app/api/spotify)](https://open.spotify.com/user/nikxtr)
+[![Spotify](https://spotify-now-playing-jtlkwba7f.vercel.app/api/spotify)](https://open.spotify.com/user/nikxtr?si=EYpFxMmrTL6MUlsPse900g)
