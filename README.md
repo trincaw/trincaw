@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm nikxtr</h1>
 <h3 align="center">Hi man!</h3>
-<style>
-p {text-align: center;}
-</style>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikxtr&label=Profile%20views&color=0e75b6&style=flat" alt="nikxtr" /> </p>
 
