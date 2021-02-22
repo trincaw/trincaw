@@ -22,7 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikxtr&show_icons=true&locale=en&layout=compact" alt="nikxtr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikxtr&show_icons=true&locale=en" alt="nikxtr" /></p>
-
 ## Now Playing
 [![Spotify](https://spotify-now-playing-jtlkwba7f.vercel.app/api/spotify)](https://open.spotify.com/user/nikxtr?si=EYpFxMmrTL6MUlsPse900g)
