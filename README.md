@@ -23,4 +23,4 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikxtr&show_icons=true&theme=tokyonight&locale=en" alt="nikxtr" /></p>
 
 ## Now Playing
-[![Spotify](https://spotify-now-playing-jtlkwba7f.vercel.app/api/spotify)](https://open.spotify.com/user/nikxtr?si=EYpFxMmrTL6MUlsPse900g)
+<p align="center">[![Spotify](https://spotify-now-playing-jtlkwba7f.vercel.app/api/spotify)](https://open.spotify.com/user/nikxtr?si=EYpFxMmrTL6MUlsPse900g)</p>
