@@ -14,4 +14,4 @@
 
 
 ## Now Playing
-[![Spotify](https://spotify-now-playing-jtlkwba7f.vercel.app/api/spotify)](https://open.spotify.com/user/trincaw?si=EYpFxMmrTL6MUlsPse901g)
+[![Spotify](https://spotify-now-playing-jtlkwba7f.vercel.app/api/spotify)](https://open.spotify.com/user/trincaw?si=21d12ddwd21312)
