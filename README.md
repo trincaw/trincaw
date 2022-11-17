@@ -12,6 +12,3 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trincaw&show_icons=true&theme=tokyonight&locale=en" alt="trincaw" /></p>
 
-
-## Now Playing
-[![Spotify](https://spotify-now-playing-jtlkwba7f.vercel.app/api/spotify)](https://open.spotify.com/user/trincaw?si=21d12ddwd21312)
